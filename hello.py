@@ -1,6 +1,5 @@
-# 3 times hello world
+# 3 times hello worl1
+for _ in range(3):
+    print("hello world")
 
-print("hello world")
-print("hello world")
-print("hello world")
 
